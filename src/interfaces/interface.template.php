@@ -1,4 +1,4 @@
-<?PHP
+ <?PHP
 	namespace Informatio;
 	
 	if (!Defined("IN_INDEX"))
